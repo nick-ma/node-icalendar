@@ -1,6 +1,8 @@
 iCalendar for Node
 ==================
 
+fork to install
+
 Provides iCalendar (RFC5545) parsing as well as a convenient API for generating iCalendar data.
 
 
